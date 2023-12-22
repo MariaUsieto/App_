@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19123184926",
+    "project_id": "practica4mariaperegrina",
+    "storage_bucket": "practica4mariaperegrina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19123184926:android:116c3102e9300c170f550f",
+        "android_client_info": {
+          "package_name": "cat.tecnocampus.mobileapps.practicafinal.mariaperegrinausieto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19123184926-p05rqrre9v0qblsap4mtu9nomlj5f950.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9L4NDVeI9TpfTVh9I_P7WrZ_JphdwdvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19123184926-p05rqrre9v0qblsap4mtu9nomlj5f950.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MariaPeregrinaUsieto</string>
+
+    <string name="hint_email">Your Email</string>
+    <string name="hint_password">Your Password</string>
+    <string name="hint_username">Your Username</string>
+    <string name="hint_new_username">New username</string>
+
+    <string name="title_activity">Activity</string>
+    <string name="title_configuration">Configuration</string>
+    <string name="title_ranking" translatable="false">Ranking</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_login">Login</string>
+    <string name="title_register">Register</string>
+
+
+    <string name="btn_sign_in">Sign in</string>
+    <string name="btn_sign_up">Sign up</string>
+    <string name="btn_accept">Accept</string>
+    <string name="btn_new">New</string>
+    <string name="btn_done">Done</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_confirm">Confirm</string>
+
+    <string name="err_incorrect_value">Incorrect  value</string>
+    <string name="err_field_required">This field is required</string>
+    <string name="err_invalid_password">Minimum 6 characters </string>
+    <string name="err_empty_field">The field is empty</string>
+    <string name="err_same_value">The new value is the same as the current username</string>
+
+    <string name="toast_register_ok">Successfully registered</string>
+    <string name="toast_new_activity_ok">The activity has been accepted</string>
+    <string name="toast_delete_ok">The activity has been canceled</string>
+    <string name="toast_update_username">Username has been updated successfully</string>
+
+    <string name="menu_profile">Profile</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_ranking" translatable="false">Ranking</string>
+
+    <string name="tv_your_activity">Your activity is:</string>
+    <string name="tv_logout">Log out</string>
+    <string name="tv_user">User</string>
+    <string name="tv_activities">Activities</string>
+    <string name="tv_num_activities_1">You have completed</string>
+    <string name="tv_num_activities_2">activities</string>
+    <string name="tv_open_google_maps">Open Google Maps</string>
+    <string name="tv_bored_api" translatable="false">Bored API</string>
+
+    <string name="dialog_question_cancel">Are you sure you want to logout?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+
+</resources>

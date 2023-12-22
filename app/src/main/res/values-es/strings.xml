@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MariaPeregrinaUsieto</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_new_username">Nuevo nombre de usuario</string>
+    <string name="title_activity">Actividad</string>
+    <string name="title_configuration">Configuración</string>
+    <string name="title_profile">Perfil</string>
+    <string name="title_login">Inici de sesió</string>
+    <string name="title_register">Registre</string>
+    <string name="btn_sign_in">Iniciar sesió</string>
+    <string name="btn_sign_up">Registrar</string>
+    <string name="btn_accept">Aceptar</string>
+    <string name="btn_new">Nueva</string>
+    <string name="btn_done">Hecho</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_confirm">Confirmar</string>
+    <string name="err_incorrect_value">Valor incorrecto</string>
+    <string name="err_field_required">El campo es obligatorio</string>
+    <string name="err_invalid_password">Mínimo 6 caracteres</string>
+    <string name="err_empty_field">El campo está vacío</string>
+    <string name="err_same_value">El nuevo valor es el mismo que el nombre de usuario actual</string>
+    <string name="toast_register_ok">Registrado exitosamente</string>
+    <string name="toast_new_activity_ok">La actividad ha sido aceptada</string>
+    <string name="toast_delete_ok">La actividad ha sido cancelada</string>
+    <string name="toast_update_username">El nombre de usuario se ha actualizado con éxito</string>
+    <string name="menu_profile">Perfil</string>
+    <string name="menu_home">Inicio</string>
+    <string name="tv_your_activity">Tu actividad es:</string>
+    <string name="tv_logout">Cerrar sesión</string>
+    <string name="tv_user">Usuario</string>
+    <string name="tv_activities">Actividades</string>
+    <string name="tv_num_activities_1">Has completado</string>
+    <string name="tv_num_activities_2">actividades</string>
+    <string name="tv_open_google_maps">Abrir Google Maps</string>
+    <string name="dialog_question_cancel">¿Estás seguro de que quieres cerrar sesión?</string>
+    <string name="dialog_yes">Si</string>
+    <string name="dialog_no">No</string>
+</resources>
